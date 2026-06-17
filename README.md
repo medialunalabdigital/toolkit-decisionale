@@ -34,7 +34,7 @@ Dentro Claude Code digita:
 /plugin install toolkit-decisionale
 ```
 
-> Se il repo è privato, il cliente deve avere accesso (essere invitato come collaboratore) e `gh`/git autenticato.
+Nient'altro: il repo è pubblico, quindi al cliente basta incollare questi due comandi.
 
 Quando esci e rientri, digita `/` e vedrai i 10 comandi. Quando Medialuna aggiorna il toolkit, basta `/plugin update toolkit-decisionale`.
 
