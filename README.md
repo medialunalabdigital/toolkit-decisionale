@@ -30,11 +30,11 @@ Tutti accettano un argomento opzionale (es. `/decidi pacchetto unico vs abboname
 Dentro Claude Code digita:
 
 ```
-/plugin marketplace add medialunalab/toolkit-decisionale
+/plugin marketplace add medialunalabdigital/toolkit-decisionale
 /plugin install toolkit-decisionale
 ```
 
-> Sostituisci `medialunalab/toolkit-decisionale` con il percorso reale del repo GitHub (`utente/repository`).
+> Se il repo è privato, il cliente deve avere accesso (essere invitato come collaboratore) e `gh`/git autenticato.
 
 Quando esci e rientri, digita `/` e vedrai i 10 comandi. Quando Medialuna aggiorna il toolkit, basta `/plugin update toolkit-decisionale`.
 
