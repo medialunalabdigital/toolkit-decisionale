@@ -1,0 +1,18 @@
+{
+  "name": "medialuna-marketplace",
+  "owner": {
+    "name": "Medialuna Lab",
+    "email": "medialuna.lab@gmail.com"
+  },
+  "metadata": {
+    "description": "Marketplace di plugin Medialuna Lab per Claude Code.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "toolkit-decisionale",
+      "source": "./plugins/toolkit-decisionale",
+      "description": "10 comandi per pensare meglio: feedback brutale, steelman, pre-mortem, red team, decisioni nette, copy senza fronzoli e validazione coi numeri."
+    }
+  ]
+}

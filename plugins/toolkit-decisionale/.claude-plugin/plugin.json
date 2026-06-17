@@ -1,0 +1,17 @@
+{
+  "name": "toolkit-decisionale",
+  "description": "Toolkit di pensiero critico per Claude Code: 10 comandi che ti aiutano a decidere meglio, smontare le idee deboli, difendere i piani e scrivere senza fuffa.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Medialuna Lab",
+    "email": "medialuna.lab@gmail.com"
+  },
+  "keywords": [
+    "decision-making",
+    "critical-thinking",
+    "feedback",
+    "strategy",
+    "copywriting",
+    "business"
+  ]
+}
