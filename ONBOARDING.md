@@ -26,11 +26,12 @@ Installarlo richiede **2 minuti**. Segui il percorso giusto in base a come usi C
    ```
 3. Poi:
    ```
-   /plugin install toolkit-decisionale
+   /plugin install toolkit-decisionale@medialuna-marketplace
    ```
+   *(usa il nome completo `@medialuna-marketplace`: quello "liscio" può non essere trovato.)*
 4. Esci e rientra. Digita `/` → vedrai i 10 comandi. **Fatto.**
 
-> 🔄 **Aggiornamenti:** quando rilasciamo migliorie, scrivi `/plugin update toolkit-decisionale`.
+> 🔄 **Aggiornamenti:** quando rilasciamo migliorie, scrivi `/plugin update toolkit-decisionale@medialuna-marketplace`.
 
 ---
 

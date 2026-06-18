@@ -31,12 +31,14 @@ Dentro Claude Code digita:
 
 ```
 /plugin marketplace add medialunalabdigital/toolkit-decisionale
-/plugin install toolkit-decisionale
+/plugin install toolkit-decisionale@medialuna-marketplace
 ```
 
 Nient'altro: il repo è pubblico, quindi al cliente basta incollare questi due comandi.
 
-Quando esci e rientri, digita `/` e vedrai i 10 comandi. Quando Medialuna aggiorna il toolkit, basta `/plugin update toolkit-decisionale`.
+> ⚠️ Usa il nome qualificato `toolkit-decisionale@medialuna-marketplace`. Il comando "liscio" `/plugin install toolkit-decisionale` può restituire "non trovato".
+
+Quando esci e rientri, digita `/` e vedrai i 10 comandi. Quando Medialuna aggiorna il toolkit, basta `/plugin update toolkit-decisionale@medialuna-marketplace`.
 
 ### Opzione 2 — Copia manuale (senza GitHub)
 
